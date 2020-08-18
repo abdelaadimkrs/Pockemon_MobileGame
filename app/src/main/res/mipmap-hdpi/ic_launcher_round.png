@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <item name="com.google.android.material.tabs.TabLayout int getTabGravity()">
+    <annotation name="androidx.annotation.IntDef">
+      <val name="flag" val="true" />
+      <val name="value" val="{com.google.android.material.tabs.TabLayout.GRAVITY_FILL, com.google.android.material.tabs.TabLayout.GRAVITY_CENTER}" />
+    </annotation>
+  </item>
+  <item name="com.google.android.material.tabs.TabLayout int getTabIndicatorGravity()">
+    <annotation name="androidx.annotation.IntDef">
+      <val name="value" val="{com.google.android.material.tabs.TabLayout.INDICATOR_GRAVITY_BOTTOM, com.google.android.material.tabs.TabLayout.INDICATOR_GRAVITY_CENTER, com.google.android.material.tabs.TabLayout.INDICATOR_GRAVITY_TOP, com.google.android.material.tabs.TabLayout.INDICATOR_GRAVITY_STRETCH}" />
+    </annotation>
+  </item>
+  <item name="com.google.android.material.tabs.TabLayout int getTabMode()">
+    <annotation name="androidx.annotation.IntDef">
+      <val name="value" val="{com.google.android.material.tabs.TabLayout.MODE_SCROLLABLE, com.google.android.material.tabs.TabLayout.MODE_FIXED, com.google.android.material.tabs.TabLayout.MODE_AUTO}" />
+    </annotation>
+  </item>
+  <item name="com.google.android.material.tabs.TabLayout mode">
+    <annotation name="androidx.annotation.IntDef">
+      <val name="value" val="{com.google.android.material.tabs.TabLayout.MODE_SCROLLABLE, com.google.android.material.tabs.TabLayout.MODE_FIXED, com.google.android.material.tabs.TabLayout.MODE_AUTO}" />
+    </annotation>
+  </item>
+  <item name="com.google.android.material.tabs.TabLayout tabIndicatorGravity">
+    <annotation name="androidx.annotation.IntDef">
+      <val name="value" val="{com.google.android.material.tabs.TabLayout.INDICATOR_GRAVITY_BOTTOM, com.google.android.material.tabs.TabLayout.INDICATOR_GRAVITY_CENTER, com.google.android.material.tabs.TabLayout.INDICATOR_GRAVITY_TOP, com.google.android.material.tabs.TabLayout.INDICATOR_GRAVITY_STRETCH}" />
+    </annotation>
+  </item>
+  <item name="com.google.android.material.tabs.TabLayout void setSelectedTabIndicatorGravity(int) 0">
+    <annotation name="androidx.annotation.IntDef">
+      <val name="value" val="{com.google.android.material.tabs.TabLayout.INDICATOR_GRAVITY_BOTTOM, com.google.android.material.tabs.TabLayout.INDICATOR_GRAVITY_CENTER, com.google.android.material.tabs.TabLayout.INDICATOR_GRAVITY_TOP, com.google.android.material.tabs.TabLayout.INDICATOR_GRAVITY_STRETCH}" />
+    </annotation>
+  </item>
+  <item name="com.google.android.material.tabs.TabLayout void setTabGravity(int) 0">
+    <annotation name="androidx.annotation.IntDef">
+      <val name="flag" val="true" />
+      <val name="value" val="{com.google.android.material.tabs.TabLayout.GRAVITY_FILL, com.google.android.material.tabs.TabLayout.GRAVITY_CENTER}" />
+    </annotation>
+  </item>
+  <item name="com.google.android.material.tabs.TabLayout void setTabMode(int) 0">
+    <annotation name="androidx.annotation.IntDef">
+      <val name="value" val="{com.google.android.material.tabs.TabLayout.MODE_SCROLLABLE, com.google.android.material.tabs.TabLayout.MODE_FIXED, com.google.android.material.tabs.TabLayout.MODE_AUTO}" />
+    </annotation>
+  </item>
+  <item name="com.google.android.material.tabs.TabLayout.LabelVisibility">
+    <annotation name="androidx.annotation.IntDef">
+      <val name="value" val="{com.google.android.material.tabs.TabLayout.TAB_LABEL_VISIBILITY_UNLABELED, com.google.android.material.tabs.TabLayout.TAB_LABEL_VISIBILITY_LABELED}" />
+    </annotation>
+  </item>
+  <item name="com.google.android.material.tabs.TabLayout.Mode">
+    <annotation name="androidx.annotation.IntDef">
+      <val name="value" val="{com.google.android.material.tabs.TabLayout.MODE_SCROLLABLE, com.google.android.material.tabs.TabLayout.MODE_FIXED, com.google.android.material.tabs.TabLayout.MODE_AUTO}" />
+    </annotation>
+  </item>
+  <item name="com.google.android.material.tabs.TabLayout.Tab com.google.android.material.tabs.TabLayout.Tab setTabLabelVisibility(int) 0">
+    <annotation name="androidx.annotation.IntDef">
+      <val name="value" val="{com.google.android.material.tabs.TabLayout.TAB_LABEL_VISIBILITY_UNLABELED, com.google.android.material.tabs.TabLayout.TAB_LABEL_VISIBILITY_LABELED}" />
+    </annotation>
+  </item>
+  <item name="com.google.android.material.tabs.TabLayout.Tab int getTabLabelVisibility()">
+    <annotation name="androidx.annotation.IntDef">
+      <val name="value" val="{com.google.android.material.tabs.TabLayout.TAB_LABEL_VISIBILITY_UNLABELED, com.google.android.material.tabs.TabLayout.TAB_LABEL_VISIBILITY_LABELED}" />
+    </annotation>
+  </item>
+  <item name="com.google.android.material.tabs.TabLayout.Tab labelVisibilityMode">
+    <annotation name="androidx.annotation.IntDef">
+      <val name="value" val="{com.google.android.material.tabs.TabLayout.TAB_LABEL_VISIBILITY_UNLABELED, com.google.android.material.tabs.TabLayout.TAB_LABEL_VISIBILITY_LABELED}" />
+    </annotation>
+  </item>
+  <item name="com.google.android.material.tabs.TabLayout.TabGravity">
+    <annotation name="androidx.annotation.IntDef">
+      <val name="flag" val="true" />
+      <val name="value" val="{com.google.android.material.tabs.TabLayout.GRAVITY_FILL, com.google.android.material.tabs.TabLayout.GRAVITY_CENTER}" />
+    </annotat
